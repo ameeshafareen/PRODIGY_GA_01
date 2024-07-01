@@ -56,5 +56,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 If you have any questions, please open an issue on this GitHub repository.
 
 ---
-
-Feel free to adjust the text as needed for your specific project details.
