@@ -43,10 +43,6 @@ This project demonstrates how to use GPT-2, a powerful text generation model by 
 
 3. Use the fine-tuned model to generate text based on a prompt.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
